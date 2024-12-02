@@ -1,0 +1,26 @@
+#cabecera{
+    background-color: #f7f4f4;
+    padding: 10px;
+    color: #77b0b8;
+}
+#menu{
+    background-color: #74beb5;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+a.item_menu{
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+a.item_menu:hover{
+    background-color: #a3ebeb;
+    
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
